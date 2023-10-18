@@ -1,5 +1,4 @@
-// Press Shift twice to open the Search Everywhere dialog and type `show whitespaces`,
-// then press Enter. You can now see whitespace characters in your code.
+// Max and Min sum values of subarrays 
 import java.util.*;
 public class Main {
     public static void subArrays(int numbers[])
